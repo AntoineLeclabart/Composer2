@@ -1,0 +1,16 @@
+{
+    "name": "antoi/composer2",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "Antoine Leclabart",
+            "email": "antoine.leclabart@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
